@@ -670,12 +670,16 @@ Given the geographic position of an avatar, you could also find avatars nearby i
 ```
 
 Of course, this is only a sample and things could get a little more crowded:
+	
 **Administrative areas of the 76 department**
+	
 ![76Areas](images/76Areas.PNG)
 
 
 **Open Street Map data extraction depicting urban data in the center of Rennes**
+	
 ![rennesCentre](images/rennesCentre.PNG)
+	
 Equivalent query:
 ```json
 {
