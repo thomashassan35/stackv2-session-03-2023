@@ -673,7 +673,7 @@ Of course, this is only a sample and things could get a little more crowded:
 	
 **Administrative areas of the 76 department**
 	
-![76Areas](images/76Areas.PNG)
+![76Areas](images/76areas.PNG)
 
 
 **Open Street Map data extraction depicting urban data in the center of Rennes**
