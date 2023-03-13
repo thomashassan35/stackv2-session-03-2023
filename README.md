@@ -146,7 +146,9 @@ To ensure that the following Postman requests are well configured, go to:
 You have to fill in the payload (Body), then send the request. The response code should be a 201. If you have a bad character error, you might not have configured the <yourname> variable. 
     
 **You don't have to do any additional steps for the other queries to use your credentials, it is filled automatically**
+	
 This is because the get TOKEN query runs a script to set the Token you got as a variable:
+	
 ![home](images/token.PNG)
 
 Then the following queries reuse this variable in the authorization header, so you don't have to set it manually each time.
