@@ -570,6 +570,7 @@ The corresponding graph in Thing'in should look like this:
 ![resultingGraph](images/resultingGraph.PNG)
 
 Clicking on the "isAbove" relationship, we can see the dismantle property on the right panel:
+	
 ![3dbuildingAC20](images/storeyAbove.PNG)
     
 
@@ -716,6 +717,7 @@ Instructions should now be given orally to constitute different teams.
 ### Dataset creation
 
 Dataset initialization (already done)
+	
 ![initGraph](images/initGraph.PNG)
 
 The teams that you have constituted are already present in a partially made graph. 
