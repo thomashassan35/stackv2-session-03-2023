@@ -26,7 +26,8 @@ It consists of 2 parts:
   - 2.1. Part 2: problem statement
   - 2.2. Part 2: questions/assignments
   - 2.3. Part 2: additional material - Blob management
-  - 2.4. Part 2: additional materiel - 
+  - 2.4. Part 2: additional material - Injecting "massive" datasets
+  - 2.5. Part 2: additional material - Digital Twin synchronization
     
     
 ## 1. Thing'in data exchange formats and query languages
@@ -132,7 +133,7 @@ After logging in through the portal, you have to use a TOKEN to use the APIs. Th
 	- In the swagger interface,  before sending queries, do this step once : click on authorize ->  paster your token under " bearerAuth  (http, Bearer) Thing'in token (without Bearer keyword)"
 
  
-- Récupérer son token : onglet Develop -> Get My Thing in token -> Copy to Clipboard
+- To get your token : Top panel -> Develop -> Get My Thing in token -> Copy to Clipboard
 
 	
 Instructions for Postman, go to: 
@@ -537,11 +538,11 @@ Add the storey to the building :
 First find the "__uuid_" of the building. It's a property of the building's avatar.
 > ex: 0aba42b6-0f4e-55e3-908b-5b1eec1d3f4a
 
-To update the data use, the swagger:
+To update the building node use the following path in swagger:
 > /avatars/update/set/{uuid}
 
 or in Postman:
-> update SET
+> Part 1/Avatars Injection/update SET
 
 
 ```json
