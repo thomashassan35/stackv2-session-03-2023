@@ -10,24 +10,23 @@ It consists of 2 parts:
 ## Agenda and outline of this document
 1. Reminder: Thing'in data exchange formats and query languages
 2. Part 1
-   - 1.1. Importing the Postman collection
-   - 1.2. Creation of a dataset using Building Topology Ontology (BOT) (~1h)
-       * Presentation of building injector (IFC + topology)
+   - 1.1. Importing the Postman collection and connecting to the platform (15 min)
+   - 1.2. Creation of a dataset using Building Topology Ontology (BOT) (~45min)
        * Creation of the dataset
        * Injection of the dataset on the Thing in platform
-   - 1.3. Query on the dataset (~1h)
-       * Presentation of the wizard 
+   - 1.3. Queries on various dataset (~1h15)
+       * Presentation of the query wizard 
        * Query the dataset, with wizard and with swagger or postman
        * Select queries
        * Update queries
        * Aggregation queries
        * Geographic queries
-3. Part 2
-  - 2.1. Part 2: problem statement
-  - 2.2. Part 2: questions/assignments
-  - 2.3. Part 2: additional material - Blob management
-  - 2.4. Part 2: additional material - Injecting "massive" datasets
-  - 2.5. Part 2: additional material - Digital Twin synchronization
+3. Part 2 (~2h)
+  - 2.1. Part 2: problem statement (~10min)
+  - 2.2. Part 2: questions/assignments (~1h30)
+  - 2.3. Part 2: additional material - Blob management (~10min)
+  - 2.4. Part 2: additional material - Injecting "massive" datasets (with presentation of building injector IFC + topology), (~10min)
+  - 2.5. Part 2: additional material - Digital Twin synchronization (~5min)
     
     
 ## 1. Thing'in data exchange formats and query languages
